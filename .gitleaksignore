@@ -1,0 +1,2 @@
+# APPDEV-28697: upstream PR 3199 replaces an invalid TMDb sample key with a test placeholder.
+25e65a5de76711b4405ea7056a3bf2f5f61cd7bf:Samples/TrendingMovies/TrendingMovies/TMDb/TMDbCredentials.swift:generic-api-key:4
